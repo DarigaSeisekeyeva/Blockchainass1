@@ -1,6 +1,6 @@
 # Blockchain Technologies Assignment
 
-## Project Title: Smart Contract for Receiving and Managing Ether
+## Smart Contract for Receiving and Managing Ether
 
 ### Project Description
 This project involves the creation and deployment of a smart contract that:
